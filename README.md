@@ -2,7 +2,6 @@
 
 # Deskripsi
 Penghitung Hari adalah aplikasi sederhana yang membantu pengguna menghitung jumlah hari antara dua tanggal yang dipilih. Aplikasi ini dirancang untuk memudahkan pengguna dalam berbagai kebutuhan, seperti menghitung waktu untuk acara atau tenggat waktu, mengetahui lama perjalanan, atau mengecek jumlah hari dalam suatu periode tertentu. Dengan antarmuka yang mudah dipahami, aplikasi ini sangat cocok digunakan oleh siapa saja yang memerlukan perhitungan hari dengan cepat dan akurat.
-# Coding
 
 ## Coding Java Aplikasi Penghitung Hari
 ```java
