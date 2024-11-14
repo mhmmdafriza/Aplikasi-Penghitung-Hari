@@ -298,6 +298,6 @@ LabelHasil.setText("Jumlah hari: " + daysInMonth + leapYearInfo);
 
 
 ```
-## PEMBUAT
+## Pembuat
 Muhammad Afriza Rizqi Pramudya (2210010679) 5B
 
